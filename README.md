@@ -28,8 +28,8 @@ Excited to share with you my first e-commerce project built using REST APIs and 
 ### Installation
 
 ## 1. Clone the repository:
-- git clone https://github.com/nehalkhaled19/ecommerce-project.git
-- cd ecommerce-project
+- git clone https://https://github.com/KarimAdel-1/e-commerce
+- cd e-commerce
 
 ## 2. Install dependencies:
 - npm install
@@ -78,9 +78,3 @@ Excited to share with you my first e-commerce project built using REST APIs and 
 -  Integrating social media login (Google, Facebook).
 -  Enhancing the checkout process with additional payment options.
 
-
----
-
-Feel free to reach out if you have any questions or need further assistance.
-
-Happy Coding!
