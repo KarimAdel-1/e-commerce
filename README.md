@@ -1,7 +1,6 @@
 # E-Commerce Project
 A feature-rich e-commerce platform built with React, offering seamless user authentication, product browsing, wish lists, and secure online payments through Stripe. This single-page application (SPA) utilizes React Router, Redux, Context API, and Formik for state management, with data fetching via Axios and caching through React Query. The UI is enhanced with Bootstrap, Font Awesome, and AOS animations, delivering an optimized user experience.
 
-
 ## 🔗 Features & Tools
 
 - Single Page Application (SPA) & Routing: Implemented using React Router to manage navigation and create a seamless user experience.
